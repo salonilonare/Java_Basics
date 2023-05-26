@@ -1,4 +1,4 @@
-package assign.com;
+package assign.com; //Create an interface with static final variable
 interface Inter13{
       static final  int x=19;
 }

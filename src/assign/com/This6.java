@@ -1,4 +1,4 @@
-package assign.com;
+package assign.com;//Use this() and super() in methods not in constructors
 class Y1{
     int x=19;
     void show(){

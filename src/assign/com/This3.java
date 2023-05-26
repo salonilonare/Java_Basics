@@ -1,4 +1,4 @@
-package assign.com;
+package assign.com;//Call constructor of the current class using this()
 class W1{
     W1(){
         System.out.println("hello!!!");

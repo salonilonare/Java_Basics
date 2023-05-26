@@ -1,4 +1,4 @@
-package assign.com;
+package assign.com;//Write a program to generate ArrayIndexOutOfBoundException
 
 public class Exception9 {
     public static void main(String[] args) {

@@ -1,4 +1,19 @@
-package assign.com;
-
+package assign.com;//Write a program to generate NoSuchFieldException
+import java.lang.reflect.*;
 public class Exception13 {
-}
+        public static void main(String[] args) {
+            try {
+                String obj = new String();
+                Class cls = obj.getClass();
+
+                Field fld = cls.getField("name");
+                System.out.println("Field found: " + fld.toString());
+            } catch (NoSuchFieldException e) {
+                System.out.println("Exception: " + e);
+            }
+
+            System.out.println("Program finished");
+        }
+    }
+
+

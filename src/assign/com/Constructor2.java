@@ -1,4 +1,5 @@
-package assign.com;
+package assign.com;//Call the constructors(both default and argument constructors) of super
+                   // class from a child class
 class V {
     V() {
         System.out.println("default constructor");

@@ -1,4 +1,4 @@
-package assign.com;
+package assign.com;//Create a PRIVATE or PROTECTED interface and print the value
 interface Inter11{ //private and protected not allowed here
     int x=34;
 }

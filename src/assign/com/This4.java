@@ -1,4 +1,4 @@
-package assign.com;
+package assign.com;//Call argument constructor of current class using this()
 
     class X1{
         X1(int a){

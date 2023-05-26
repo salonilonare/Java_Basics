@@ -20,7 +20,7 @@ class H {
 public class Static1 {
     static int x=10;
     static int y=29;
-    //int z=45;
+
 
     public static void main(String[] args){
         H h =new H();
@@ -30,7 +30,7 @@ public class Static1 {
         h.instan2();
         System.out.println(x);
         System.out.println(y);
-        //System.out.println(z);
+
 
 
     }

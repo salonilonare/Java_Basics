@@ -1,4 +1,5 @@
-package assign.com;
+package assign.com;//Write two methods with the same name, number of parameters and data type but
+                   //different return Type
 class D1 {
     void show(int a, int b) {
         System.out.println(a + b);

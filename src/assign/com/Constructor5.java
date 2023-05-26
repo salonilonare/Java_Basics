@@ -1,4 +1,4 @@
-package assign.com;
+package assign.com; //Try to call the constructor multiple times with the same object
 class Y{
     Y(){
         System.out.println("constructor");

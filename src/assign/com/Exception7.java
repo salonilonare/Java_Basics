@@ -1,4 +1,4 @@
-package assign.com;
+package assign.com;//Write a program with finally block
 
 public class Exception7 {
     public static void main(String[] args){

@@ -1,4 +1,5 @@
-package assign.com;
+package assign.com;//Write two methods with the same name and same number of parameters of
+                   // different type and call from main method
 class C1 {
     void show(int a, int b) {
         System.out.println(a + b);

@@ -1,4 +1,4 @@
-package assign.com;
+package assign.com;//Call constructor of the parent class using super()
     class T1{
         T1(){
             System.out.println("class T1");

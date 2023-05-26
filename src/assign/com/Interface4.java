@@ -1,4 +1,5 @@
-package assign.com;
+package assign.com;//Create two interfaces with one method each. Implement these two interfaces
+                   // in one class.
 interface Inter3{
     void show1();
 }

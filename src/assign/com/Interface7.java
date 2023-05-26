@@ -1,4 +1,4 @@
-package assign.com;
+package assign.com;//Create an interface and inherit it from the other interface.
 interface Inter8{
     void show1();
 }

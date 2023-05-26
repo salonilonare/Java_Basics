@@ -2,6 +2,7 @@ package assign.com;//1. How to create a class, object, method and its signature
 class D{ //class
     int x=10;
     void show(){ //method
+
         System.out.println("class A");
     }
 }

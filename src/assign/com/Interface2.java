@@ -1,4 +1,5 @@
-package assign.com;
+package assign.com;//Create an interface with two methods, but implement only one in a class.
+                   // Call the method implemented
 interface Inter2{
     void show();
  //  void show2(); error

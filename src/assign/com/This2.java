@@ -1,4 +1,4 @@
-package assign.com;
+package assign.com;//Print the fields/instance members of the parent class using super
 class R1{
 R1(){
     System.out.println("class R1");

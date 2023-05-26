@@ -1,4 +1,4 @@
-package assign.com;//
+package assign.com;
 
         class Test {
 

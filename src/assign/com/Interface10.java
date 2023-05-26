@@ -1,4 +1,4 @@
-package assign.com;
+package assign.com;//Create an interface with private, public and protected fields
 interface Inter12{
     void show();
     void show2();
@@ -7,9 +7,11 @@ interface Inter12{
 }
 class M1 implements Inter12{
     public void show(){
+
         System.out.println("show");
     }
     public  void show2(){ // private
+
         System.out.println("show2");
     }
     public  void show3(){  //protected

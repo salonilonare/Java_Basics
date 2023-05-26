@@ -1,8 +1,8 @@
-package assign.com;//Write a function to find the minimum and maximum value of an array
+package assign.com;//Write a function to get the difference of largest and smallest value
 
-public class Arrays8 {
-    public static void main(String[] args){
-        int x[]={14,67,32,56,89,7};
+public class Arrays16 {
+    public static void main (String[] args){
+        int x[]={77,67,32,56,100,7};
         int i;
         int j;
         int max=x[0];
@@ -17,7 +17,7 @@ public class Arrays8 {
                 min=x[j];
             }
         }
-        System.out.println("max= " +max);
-        System.out.println("min= "+min);
+        System.out.println("result= " + (max-min));
+
     }
 }
